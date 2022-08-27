@@ -1,0 +1,10 @@
+var Resume={
+    "name":"Vishnu Vijayan",
+    "age":30,
+    "DOB":"MMDDYY",
+    "Qualification":['civil enginering','Business Adminstration'],
+    "work Experince":"yes",
+    "Industry":['INSURANCE','CONSTRUCTION'],
+    "Lanuage ":['English','Tamil','Malayalam'],
+    "hobby":['Photography','Reading']
+}

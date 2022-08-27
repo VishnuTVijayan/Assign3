@@ -5,9 +5,11 @@ for(var i=1;i<arra.length;i++){
 }
 console.log("In this Program for loop is used to print the square value ");
 for(var j of arra){
-    console.log(Number(arra[j]*arra[j]));
+    console.log(j);
+    // console.log(Number(arra[j]));
 }
 console.log("In this Program for loop is used to print the index value ");
 for(var k in arra){
-    console.log(Number(arra[k]*arra[k]));
+    console.log(k);
+    // console.log(Number(arra[k]));
 }
